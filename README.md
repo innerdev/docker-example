@@ -1,0 +1,1 @@
+Just do ./run.sh as a startpoint.
